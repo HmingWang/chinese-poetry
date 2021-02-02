@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center">阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江 </p>
+
 <h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
 
 <p align="center">
@@ -120,6 +122,7 @@
 - [chenyuntc](https://github.com/chenyuntc) **/** [pytorch-book](https://github.com/chenyuntc/pytorch-book/blob/master/chapter9-神经网络写诗(CharRNN)/) *简体唐诗生成(char-RNN)，可生成藏头诗，自定义诗歌意境，前缀等*
 - [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *诗词桌面*
 - [huangjianke](https://github.com/huangjianke) **/** [weapp-poem](https://github.com/huangjianke/weapp-poem/) *诗词墨客 小程序版*
+- [汉字之美](https://hz.xusenlin.com/)汉字之美是一个方便查询的诗词网站，简洁干净，方便使用。
 
 </details>
 
